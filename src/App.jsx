@@ -1,9 +1,9 @@
 
 import React, { useState } from 'react';
 import './App.css';
-import SearchComponent from './components/SearchComponent';
-import ShowCourseComponent from './components/ShowCourseComponent';
-import UserCartComponent from './components/UserCartComponent';
+import SearchComponent from './component/SearchComponent';
+import ShowCourseComponent from './component/ShowCourseComponent';
+import UserCartComponent from './component/UserCartComponent';
 
 function App() {
 	const [courses, setCourses] = useState([

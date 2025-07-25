@@ -6,7 +6,7 @@ body {
 }
 
 .App-header {
-    background-color: #6cc24a;
+    background-color: #5467cf;
     padding: 20px;
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
@@ -53,7 +53,7 @@ body {
 .search-icon {
     font-size: 1.2rem;
     margin-right: 10px;
-    color: #6cc24a;
+    color: #3e40ad;
 }
 
 /* Product Display */
@@ -65,7 +65,7 @@ body {
 
 .product {
     background-color: rgb(255, 245, 245);
-    border: 1px solid #1b4e1f;
+    border: 1px solid #3c3596;
     border-radius: 10%;
     padding: 10px 60px;
     text-align: center;
